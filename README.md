@@ -8,7 +8,7 @@ Built for:
 - PCI DSS Preparation
 - CIS Benchmark Validation
 
-# Author: Abhishek CN
+Author: Abhishek CN
 
 ## Installation
 
